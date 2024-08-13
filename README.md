@@ -1,4 +1,4 @@
-WhisperInsight
+##WhisperInsight
 WhisperInsight is a versatile topic modeling and labeling application designed to analyze and categorize text. Powered by Whisper's advanced transcription technology and Streamlit's interactive interface, this project provides insightful topic detection and labeling for textual data.
 
 Features
