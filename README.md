@@ -9,29 +9,27 @@
 
 ## Installation
 
-### Big Side Heading
-
 1. **Clone the Repository:**
 
    ```bash
    git clone https://github.com/your-username/WhisperInsight.git
    cd WhisperInsight
 
-Set Up a Virtual Environment:
-```
-python -m venv venv
-source venv/bin/activate
-# On Windows: venv\Scripts\activate
-```
-Install Required Packages:
-```
-pip install -r requirements.txt
-```
-Usage
-Run the Application:
-```
-streamlit run app.py
-```
+2. **Set Up a Virtual Environment:**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate
+   # On Windows: venv\Scripts\activate
+  
+   Install Required Packages:
+   ```
+   pip install -r requirements.txt
+   ```
+   Usage
+   Run the Application:
+   ```
+   streamlit run app.py
+   ```
 ####Features:
 
 ######Text Analysis:
