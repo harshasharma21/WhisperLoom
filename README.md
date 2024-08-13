@@ -21,28 +21,29 @@
    source venv/bin/activate
    # On Windows: venv\Scripts\activate
   
-   Install Required Packages:
-   ```
+3. **stall Required Packages:**
+   ```bash
    pip install -r requirements.txt
    ```
-   Usage
+4. **Usage**
    Run the Application:
-   ```
+   ```bash
    streamlit run app.py
-   ```
-####Features:
 
-######Text Analysis:
+   
+## Features:
+
+### Text Analysis:
 Paste or type text into the input area.
 Click "Analyze Text" to perform topic modeling and labeling.
 
-######Future Enhancements:
+### Future Enhancements:
 CSV File Analysis: Upload CSV files for topic modeling.
 Video Analysis: Enter YouTube video URLs for transcription and topic analysis.
 
-######Configuration
+### Configuration
 Whisper Model: The application uses the Whisper model to transcribe audio content. Ensure that the Whisper model is correctly configured in app.py.
-######Contributing
+### Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-######Contact
-For any questions or feedback, please reach out to jsriharshasharma@gmail.com.
+### Contact
+For any questions or feedback, please reach out to jsriharshasharma@gmail.com
