@@ -1,20 +1,22 @@
-##WhisperInsight
+# WhisperInsight
 
-WhisperInsight is a versatile topic modeling and labeling application designed to analyze and categorize text. Powered by Whisper's advanced transcription technology and Streamlit's interactive interface, this project provides insightful topic detection and labeling for textual data.
+**WhisperInsight** is a versatile topic modeling and labeling application designed to analyze and categorize text. Powered by Whisper's advanced transcription technology and Streamlit's interactive interface, this project provides insightful topic detection and labeling for textual data.
 
-####Features
-######Text Analysis: 
-Perform topic modeling and labeling on plain text.
-######Future Expansion: 
-Planned enhancements to include CSV file processing and video content analysis.
+## Features
 
-####Installation
+- **Text Analysis:** Perform topic modeling and labeling on plain text.
+- **Future Expansion:** Planned enhancements to include CSV file processing and video content analysis.
 
-Clone the Repository:
-```
-git clone https://github.com/your-username/WhisperInsight.git
-cd WhisperInsight
-```
+## Installation
+
+### Big Side Heading
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/your-username/WhisperInsight.git
+   cd WhisperInsight
+
 Set Up a Virtual Environment:
 ```
 python -m venv venv
